@@ -26,3 +26,8 @@ Faça um programa para ler 3 valores (considere que não serão informados valor
 Faça um programa que leia  3 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores. 
 ### 8
 Faça um para ler 2 valores informados pelo usuário e se o segundo valor informado for ZERO, deve ser lido um novo valor, ou seja, para o segundo valor não pode ser aceito o valor zero nem negativo e imprimir o resultado da divisão do primeiro valor lido pelo segundo valor lido. 
+
+</br>
+
+## ✨ Tecnologias Usadas:
+ <img align="center" alt="java" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
